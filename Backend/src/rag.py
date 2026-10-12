@@ -14,6 +14,7 @@ from src.deficiencies import analyze_deficiencies, classify_chunk
 
 logger = logging.getLogger(__name__)
 
+# Used when the retrieved pages do not support an answer.
 NO_EVIDENCE = "No relevant compliance rule found in current repository."
 
 COMPLIANCE_SYSTEM_PROMPT = (
