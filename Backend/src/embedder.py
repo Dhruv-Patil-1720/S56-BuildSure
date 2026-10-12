@@ -9,6 +9,7 @@ from functools import lru_cache
 
 from src.config import EMBEDDING_MODEL
 
+# One batch keeps a long PDF from encoding every chunk in a single call.
 BATCH_SIZE = 32
 
 
