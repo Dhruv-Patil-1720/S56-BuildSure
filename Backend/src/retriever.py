@@ -20,6 +20,7 @@ class IndexNotBuiltError(RuntimeError):
     """Raised when the vector index is empty or missing."""
 
 
+# Runs before ranking, so another project's private text never gets a score.
 def build_search_filter(active_project_id: str, doc_type_filter: Optional[str] = None) -> dict:
     """Build the pre-filter used by Atlas and by the local cosine fallback.
 
