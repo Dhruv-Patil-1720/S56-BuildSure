@@ -38,6 +38,7 @@ _mongo_client: Optional[MongoClient] = None
 _local_collections: dict[str, MemoryCollection] = {}
 _auto_kind: Optional[str] = None
 
+# 384 cosine on embedding, with filters for project, scope, and document type.
 ATLAS_VECTOR_INDEX_DEFINITION = {
     "name": VECTOR_INDEX_NAME,
     "type": "vectorSearch",
