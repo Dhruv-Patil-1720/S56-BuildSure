@@ -1,0 +1,18 @@
+BUILDSURE SAMPLE BUILDING CODE - PART 14: HIGH-RISE EGRESS AND FIRE PROTECTION
+Document type: building code
+NOTE: Fictional sample content for demonstration only. Not a real regulation.
+
+Section 14.1 Egress Width Requirements for High-Rise
+Egress width requirements for a high-rise: the clear width of an egress corridor serving a high-rise floor shall be at least 1.2 m. The clear width of an egress stair in a high-rise shall be at least 1.2 m. Door leaves on an egress path shall open in the direction of egress. This is stricter than the 1.0 m minimum for an ordinary exit door in Section 7.2.
+
+Section 14.2 Fire Suppression Sprinkler Spacing
+Fire suppression sprinkler spacing shall not exceed 4.6 m between sprinkler heads in a light-hazard area and 3.7 m in an ordinary-hazard area. One sprinkler shall cover no more than 20 square metres in a light-hazard room. A high-rise shall be sprinklered throughout.
+
+Section 14.3 Accessible Restroom Dimensions
+ADA accessible restroom dimensions: a wheelchair-accessible toilet compartment shall be at least 1.5 m wide and 1.5 m deep. The centre line of the water closet shall be 450 mm from the side wall. The accessible restroom shall contain a clear turning space 1.5 m in diameter.
+
+Section 14.4 Occupant Load Calculation Method
+The occupant load calculation method is floor area divided by the occupant load factor. For a business area the factor is 9.3 square metres per person. For an assembly area with unconcentrated seating the factor is 1.4 square metres per person. Round the result up to the next whole person.
+
+Section 14.5 Stairwell Pressurization Requirements
+Stairwell pressurization requirements: an enclosed exit stair serving a high-rise shall be kept at a positive pressure of at least 12 pascals, and not more than 87 pascals, relative to the floor it serves, with all stair doors closed. The pressurization fans shall start on fire alarm.
