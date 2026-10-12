@@ -309,6 +309,7 @@ def _raise_upload(exc: UploadRejected) -> None:
 
 
 @app.get("/api/health", tags=["Health"])
+# The site reads this to show whether Atlas and Groq are configured.
 def health_check():
     """Report store and provider configuration without revealing secrets."""
     connected = ping_db()
