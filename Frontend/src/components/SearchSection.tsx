@@ -77,7 +77,7 @@ export default function SearchSection({
         <div className="inline-flex items-center gap-2 px-2.5 py-1 mb-2.5 rounded-md bg-amber-500/10 border border-amber-500/30 text-amber-900 font-mono text-[11px] font-bold uppercase tracking-widest">
           FIELD INSPECTION & CODE DATABASE
         </div>
-        <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight uppercase font-mono mb-2">
+        <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight uppercase font-mono mb-3">
           COMPLIANCE SEARCH
         </h1>
         <p className="text-slate-700 text-xs sm:text-sm max-w-xl font-medium leading-relaxed">
