@@ -108,7 +108,7 @@ export default function ResultsSection({
         {/* Results header */}
         <div className="flex flex-wrap items-center justify-between gap-2 px-1 pt-1">
           <div className="flex items-center gap-2">
-            <h2 className="text-xs font-mono font-extrabold uppercase tracking-wider text-slate-900">
+            <h2 className="text-[13px] font-mono font-extrabold uppercase tracking-wide text-slate-900">
               SOURCE REFERENCES
             </h2>
             <span className="font-mono text-[11px] font-bold text-slate-700 bg-slate-200 px-1.5 py-0.5 rounded-sm">
