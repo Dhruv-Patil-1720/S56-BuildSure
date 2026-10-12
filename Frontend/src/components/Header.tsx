@@ -73,7 +73,7 @@ export default function Header({
           <div className="relative" ref={dropdownRef}>
             <button
               onClick={() => setDropdownOpen((o) => !o)}
-              className="min-h-[44px] flex items-center gap-2.5 px-3.5 py-2 rounded-md bg-slate-900 border border-slate-700 hover:border-amber-500/70 hover:bg-slate-800 transition-all group"
+              className="min-h-[48px] flex items-center gap-2.5 px-3.5 py-2 rounded-md bg-slate-900 border border-slate-700 hover:border-amber-500/70 hover:bg-slate-800 transition-all group"
             >
               <div className="w-2.5 h-2.5 rounded-sm bg-amber-400 shrink-0" />
               <span className="text-slate-100 text-sm font-semibold max-w-[150px] sm:max-w-[220px] truncate">
